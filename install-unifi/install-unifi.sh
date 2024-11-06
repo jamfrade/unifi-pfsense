@@ -154,6 +154,7 @@ AddPkg jpeg-turbo
 AddPkg zstd
 AddPkg libdeflate
 AddPkg jbigkit
+AddPkg lerc
 AddPkg tiff
 AddPkg freetype2
 AddPkg fontconfig
