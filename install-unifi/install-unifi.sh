@@ -199,7 +199,7 @@ AddPkg boost-libs
 AddPkg libunwind
 AddPkg snowballstemmer
 AddPkg yaml-cpp
-AddPkg ${CURRENT_MONGODB_VERSION}
+#AddPkg ${CURRENT_MONGODB_VERSION}
 AddPkg unzip
 AddPkg pcre
 
